@@ -1,0 +1,53 @@
+{
+  "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-opencode/master/assets/oh-my-opencode.schema.json",
+  "agents": {
+    "sisyphus": {
+      "model": "anthropic/claude-opus-4-6",
+      "variant": "max",
+      "ultrawork": {
+        "model": "anthropic/claude-opus-4-6",
+        "variant": "max"
+      }
+    },
+    "prometheus": {
+      "model": "anthropic/claude-opus-4-6",
+      "variant": "max"
+    },
+    "atlas": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "librarian": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "explore": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "oracle": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "frontend-ui-ux-engineer": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "document-writer": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "multimodal-looker": {
+      "model": "anthropic/claude-opus-4-6"
+    },
+    "sisyphus-junior": {
+      "model": "anthropic/claude-opus-4-6"
+    }
+  },
+  "_migrations": [
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6",
+    "model-version:anthropic/claude-opus-4-5->anthropic/claude-opus-4-6"
+  ]
+}
