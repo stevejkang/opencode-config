@@ -1,12 +1,12 @@
 {
   "autoupdate": false,
   "plugin": [
-    "oh-my-openagent",
     "opencode-gemini-auth@latest",
-    "@ex-machina/opencode-anthropic-auth@latest",
+    "opencode-claude-auth",
     "opencode-wakatime",
     "@mohak34/opencode-notifier@latest",
-    "omo-olympus@latest"
+    "omo-olympus@latest",
+    "oh-my-openagent@latest"
   ],
   "mcp": {
     "jira": {
