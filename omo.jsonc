@@ -4,15 +4,15 @@
   "[opencode]": {
     "agents": {
       "sisyphus": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "ultrawork": {
-          "model": "anthropic/claude-opus-4-6",
+          "model": "anthropic/claude-opus-5-5",
           "reasoning": "max"
         },
         "reasoning": "max"
       },
       "hephaestus": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "medium"
       },
       "oracle": {
@@ -26,44 +26,44 @@
         "model": "anthropic/claude-haiku-4-5"
       },
       "multimodal-looker": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "medium"
       },
       "prometheus": {
-        "model": "anthropic/claude-opus-5",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       },
       "metis": {
-        "model": "anthropic/claude-opus-5",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       },
       "momus": {
-        "model": "anthropic/claude-opus-5",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       },
       "atlas": {
         "model": "anthropic/claude-sonnet-5"
       },
       "sisyphus-junior": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       }
     },
     "categories": {
       "visual-engineering": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       },
       "ultrabrain": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "xhigh"
       },
       "deep": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "medium"
       },
       "artistry": {
-        "model": "anthropic/claude-opus-4-6",
+        "model": "anthropic/claude-opus-5-5",
         "reasoning": "max"
       },
       "quick": {
@@ -73,7 +73,7 @@
         "model": "anthropic/claude-sonnet-5"
       },
       "unspecified-high": {
-        "model": "anthropic/claude-opus-4-6"
+        "model": "anthropic/claude-opus-5-5"
       },
       "writing": {
         "model": "anthropic/claude-sonnet-5"
