@@ -20,10 +20,10 @@
         "reasoning": "high"
       },
       "librarian": {
-        "model": "anthropic/claude-haiku-4-5"
+        "model": "anthropic/claude-haiku-5-5"
       },
       "explore": {
-        "model": "anthropic/claude-haiku-4-5"
+        "model": "anthropic/claude-haiku-5-5"
       },
       "multimodal-looker": {
         "model": "anthropic/claude-opus-5-5",
