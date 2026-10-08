@@ -16,7 +16,7 @@
         "reasoning": "medium"
       },
       "oracle": {
-        "model": "anthropic/claude-sonnet-5",
+        "model": "anthropic/claude-sonnet-5-5",
         "reasoning": "high"
       },
       "librarian": {
@@ -42,7 +42,7 @@
         "reasoning": "max"
       },
       "atlas": {
-        "model": "anthropic/claude-sonnet-5"
+        "model": "anthropic/claude-sonnet-5-5"
       },
       "sisyphus-junior": {
         "model": "anthropic/claude-opus-5-5",
@@ -67,16 +67,16 @@
         "reasoning": "max"
       },
       "quick": {
-        "model": "anthropic/claude-sonnet-5"
+        "model": "anthropic/claude-sonnet-5-5"
       },
       "unspecified-low": {
-        "model": "anthropic/claude-sonnet-5"
+        "model": "anthropic/claude-sonnet-5-5"
       },
       "unspecified-high": {
         "model": "anthropic/claude-opus-5-5"
       },
       "writing": {
-        "model": "anthropic/claude-sonnet-5"
+        "model": "anthropic/claude-sonnet-5-5"
       }
     },
     "tui": {
