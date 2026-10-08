@@ -16,8 +16,8 @@
         "reasoning": "medium"
       },
       "oracle": {
-        "model": "anthropic/claude-sonnet-5-5",
-        "reasoning": "high"
+        "model": "anthropic/claude-opus-5-5",
+        "reasoning": "max"
       },
       "librarian": {
         "model": "anthropic/claude-haiku-5-5"
