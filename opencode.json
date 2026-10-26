@@ -6,7 +6,7 @@
     "opencode-wakatime",
     "@mohak34/opencode-notifier@latest",
     "omo-olympus@latest",
-    "oh-my-openagent@latest"
+    "oh-my-openagent@4.19.4"
   ],
   "mcp": {
     "jira": {
