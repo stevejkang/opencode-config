@@ -29,6 +29,11 @@
       "url": "https://montage.wanted.co.kr/mcp",
       "enabled": true
     },
+    "ennoia": {
+      "type": "remote",
+      "url": "https://mcp.ennoia.so/mcp",
+      "enabled": true
+    },
     "github": {
       "type": "local",
       "command": ["pnpm", "dlx", "@modelcontextprotocol/server-github"],
