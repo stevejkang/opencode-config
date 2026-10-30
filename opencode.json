@@ -1,11 +1,9 @@
 {
   "autoupdate": false,
   "plugin": [
-    "opencode-gemini-auth@latest",
     "opencode-claude-auth",
     "opencode-wakatime",
     "@mohak34/opencode-notifier@latest",
-    "omo-olympus@latest",
     "oh-my-openagent@4.19.4"
   ],
   "mcp": {
