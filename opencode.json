@@ -1,7 +1,7 @@
 {
   "autoupdate": false,
   "plugin": [
-    "opencode-claude-auth",
+    "opencode-claude-auth@2.2.1",
     "opencode-wakatime",
     "@mohak34/opencode-notifier@latest",
     "oh-my-openagent@4.19.4"
